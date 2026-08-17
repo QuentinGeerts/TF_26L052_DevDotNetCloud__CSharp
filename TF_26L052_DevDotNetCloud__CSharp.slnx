@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Demonstrations/">
     <Project Path="Demo06_Boucles/Demo06_Boucles.csproj" />
+    <Project Path="Demo07_Tableaux/Demo07_Tableaux.csproj" />
   </Folder>
   <Folder Name="/Exercices/">
     <Project Path="Page150Exo01/Page150Exo01.csproj" />
