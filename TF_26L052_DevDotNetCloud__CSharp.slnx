@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Demonstrations/">
+    <Project Path="Demo06_Boucles/Demo06_Boucles.csproj" />
+  </Folder>
+  <Folder Name="/Exercices/" />
+  <Project Path="Rappel/Rappel.csproj" />
+</Solution>
